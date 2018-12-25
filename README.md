@@ -47,6 +47,6 @@ CAS will be available at:
 ## External
 Deploy resultant `target/cas.war` to a Servlet container of choice.
 
-##Features
+## Features
 * Ticket Registry Using apache ignite,
 * postgresql jdbc authentication
