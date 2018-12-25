@@ -1,0 +1,8 @@
+{
+    "@class" : "org.jasig.cas.services.RegexRegisteredService",
+    "serviceId" : "^http://localhost:8081/login",
+    "name" : "CAS Spring Secured App",
+    "description": "This is a Spring App that usses the CAS Server for it's authentication",
+    "id" : 19991,
+    "evaluationOrder" : 1
+}
